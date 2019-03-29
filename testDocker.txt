@@ -1,0 +1,10 @@
+Docker é uma tecnologia de software que fornece contêineres, promovido pela empresa Docker, Inc. O Docker fornece uma camada adicional de abstração e automação de virtualização de nível de sistema operacional no Windows e no Linux. 
+Gravado em: Go
+Autor original: Docker, Inc.
+Licença: Licença Apache 2.0 ou Proprietária (no caso do "Docker Enterprise")
+Sistema operacional: Linux, Windows
+Lançamento: 13 de março de 2013 
+
+
+
+
